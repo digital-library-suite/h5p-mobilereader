@@ -171,6 +171,5 @@ export class H5PRuntimeAdapter {
       clearInterval(this.saveInterval);
       this.saveInterval = null;
     }
-    this.currentContentId = null;
   }
 }
