@@ -1,6 +1,6 @@
 {
   "name": "h5p-mobilereader",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "H5P mobile reader application for offline Interactive Book consumption",
   "private": true,
   "scripts": {
